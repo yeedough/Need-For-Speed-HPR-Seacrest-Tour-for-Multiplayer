@@ -3,12 +3,15 @@
 SEACREST TOUR SWITCHER - version 1
 
 WHAT IT DOES ? 
+
 Switches multiplayer ROADSTERS REBORN to the Seacrest Tour route and back.
 The menu name stays ROADSTERS REBORN. Career races, saves, wraps, settings
 and the game executable are not changed. This is a utility, not a launcher;
 close it and launch the game normally afterward.
 
+
 HOW TO USE ? 
+
 1. Extract this entire ZIP to a folder. Close the game.
 2. Double-click SeacrestSwitcher.exe.
 3. Enter 1 for Seacrest Tour, or 2 for original Roadsters Reborn.
@@ -22,7 +25,9 @@ For a race together, everyone should enable the same patch and use a private
 lobby. Select ROADSTERS REBORN; its route should be Seacrest Tour. After playing,
 close the game and run the tool again with option 2 to restore the original.
 
+
 COMPATIBILITY
+
 Windows PC; .NET Framework 4.x (included in normal Windows 10/11 installations).
 No Python, PowerShell scripts, installation or separate game launcher needed.
 The tested Windows Steam files are recognized by exact SHA-256 hashes.
@@ -33,7 +38,9 @@ The utility stops on unsupported files rather than guessing offsets.
 One complete online race on two identically patched Steam PCs was reported
 successful. Broader multiplayer configurations are not yet tested.
 
+
 BACKUP AND RESTORE
+
 Enabling keeps an original archive backup next to CHALLENGEINSTANCES.BNDL:
   GAMELOGIC\CHALLENGEINSTANCES.BNDL.seacrest-original.bak
 It never overwrites an unexpected existing backup. Keep that backup.
@@ -43,7 +50,9 @@ Only the recognized original and recognized Seacrest candidate are accepted.
 Restore does not require other game files to match, allowing recovery if
 another file has since changed. It never restores or edits your saves.
 
+
 TROUBLESHOOTING
+
 - Game open: quit normally and retry.
 - Unsupported/modified file: stop; this tool does not combine other mods.
 - Folder not found: paste the full actual game folder, not a shortcut.
