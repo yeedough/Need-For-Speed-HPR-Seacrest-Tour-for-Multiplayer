@@ -2,13 +2,13 @@
 
 SEACREST TOUR SWITCHER - version 1
 
-WHAT IT DOES
+WHAT IT DOES ? 
 Switches multiplayer ROADSTERS REBORN to the Seacrest Tour route and back.
 The menu name stays ROADSTERS REBORN. Career races, saves, wraps, settings
 and the game executable are not changed. This is a utility, not a launcher;
 close it and launch the game normally afterward.
 
-HOW TO USE
+HOW TO USE ? 
 1. Extract this entire ZIP to a folder. Close the game.
 2. Double-click SeacrestSwitcher.exe.
 3. Enter 1 for Seacrest Tour, or 2 for original Roadsters Reborn.
